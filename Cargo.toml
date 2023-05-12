@@ -2,6 +2,12 @@
 name = "mailbox_processor"
 version = "0.3.0"
 edition = "2021"
+authors = ["Arshia Ghafoori <arshia001@live.com>"]
+description = "Actor abstraction inspired by the FSharp MailboxProcessor"
+license = "MIT OR Apache-2.0" 
+repository = "https://github.com/hamidrezakp/mailbox_processor"
+keywords = ["actor", "mailbox", "fp", "concurrency"]
+categories = ["Concurrency"]
 
 [dependencies]
 thiserror = "1.0"
