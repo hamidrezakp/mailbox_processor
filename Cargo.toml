@@ -1,5 +1,5 @@
 [package]
-name = "mailbox_processor"
+name = "mailbox_processor_rs"
 version = "0.3.0"
 edition = "2021"
 authors = ["Arshia Ghafoori <arshia001@live.com>"]
